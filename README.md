@@ -1,7 +1,7 @@
 # Hi, I'm Arel 👋
 
 **Asep Ridwan Lubis, S.Mat., MBA, CSBA**
-Digital entrepreneurship lecturer at Universitas Pendidikan Indonesia · Founder of [Veronica Labs](https://veronicalabs.id) · AI agent builder
+<br>Digital entrepreneurship lecturer at Universitas Pendidikan Indonesia · Founder of [Veronica Labs](https://veronicalabs.id) · AI agent builder
 
 > *From zero to Veronica Labs — pelan-pelan, tapi jalan terus.* 🚀
 
