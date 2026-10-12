@@ -1,7 +1,7 @@
 # Hi, I'm Arel 👋
 
-**Asep Ridwan Lubis, S.Mat., MBA, CSBA**
-<br>Digital entrepreneurship lecturer at Universitas Pendidikan Indonesia · Founder of [Veronica Labs](https://veronicalabs.id) · AI agent builder
+**Asep Ridwan Lubis, S.Mat., MBA, CSBA**<br>
+Digital entrepreneurship lecturer at Universitas Pendidikan Indonesia · Founder of [Veronica Labs](https://veronicalabs.id) · AI agent builder
 
 > *From zero to Veronica Labs — pelan-pelan, tapi jalan terus.* 🚀
 
@@ -26,7 +26,8 @@ I'm an ITB MBA graduate who has taught Business Education at UPI since 2020. I a
 
 **Side projects**
 - 📬 **Email triage agent**: a Telegram bot that triages multiple Gmail inboxes with Claude. It sends real-time alerts, daily digests, and one-tap actions (archive, label, reply), and it is self-hosted with Docker.
-- 🏠 **Home lab**: mini PCs running self-hosted AI agents (Hermes Agent by Nous Research), Docker services, and secure remote access. This is my playground for learning infrastructure the hands-on way.
+- 👁️ **VeroEye**: a Telegram bot built on Hermes Agent that turns a second-hand webcam into a smart home camera. It runs on motionEye and reports motion, and because it is LLM-based, it can tell whether it sees a person or something else and describe the condition of the room.
+- 🏠 **Home lab**: mini PCs running self-hosted AI agents (Hermes Agent by Nous Research), a Jellyfin media server, a self-hosted archive for personal documents, and secure remote access. This is my playground for learning infrastructure the hands-on way.
 
 ---
 
@@ -50,6 +51,7 @@ I'm an ITB MBA graduate who has taught Business Education at UPI since 2020. I a
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
 
 ### 📫 Let's connect
 
